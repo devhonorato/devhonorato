@@ -50,10 +50,10 @@ Estou sempre aberto a novas oportunidades para colaborar com equipes talentosas 
 ![](https://github-contributor-stats.vercel.app/api?username=devhonoratoBR&hide_border=true&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=devhonoratoBR&icon=5&color=12)](https://visitcount.itsvg.in)
+[![Visit Count](https://visitcount.itsvg.in/api?id=devhonoratoBR&icon=5&color=12)](https://visitcount.itsvg.in) 
+
 
 <!--## 💰 You can help me by Donating -->
 <!--[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/a) -->
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
