@@ -7,7 +7,7 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de desafi
 
 Estou sempre aberto a novas oportunidades para colaborar com equipes talentosas e trabalhar em projetos desafiadores. Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a construção de soluções inovadoras que impactem positivamente a vida das pessoas.
 
-## 🌐 Redes Sociais:
+## 🌐 Social media:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-honorato-9b3579204) 
 
@@ -49,7 +49,7 @@ Estou sempre aberto a novas oportunidades para colaborar com equipes talentosas 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devhonoratoBR&hide_border=true&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+## ❤️ Thanks 
 [![Visit Count](https://visitcount.itsvg.in/api?id=devhonoratoBR&icon=5&color=12)](https://visitcount.itsvg.in) 
 
 
