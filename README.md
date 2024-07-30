@@ -1,4 +1,4 @@
-# 👋 About me:
+## 👋 About me:
 
 Olá, eu sou Felipe Honorato, também conhecido como DevHonorato. 
 Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de desafios para aprimorar minhas habilidades e conhecimentos. Minha especialidade é a criação de soluções inovadoras e eficientes usando diversas tecnologias.
@@ -11,7 +11,7 @@ Estou sempre aberto a novas oportunidades para colaborar com equipes talentosas 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-honorato-9b3579204) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -34,7 +34,7 @@ Estou sempre aberto a novas oportunidades para colaborar com equipes talentosas 
 ### Version control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devhonoratoBR&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=devhonoratoBR&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
