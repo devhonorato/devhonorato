@@ -38,8 +38,8 @@ Estou sempre aberto a novas oportunidades para colaborar com equipes talentosas 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devhonoratoBR&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=devhonoratoBR&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devhonoratoBR&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<!-- &langs_count=6 -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devhonoratoBR&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devhonoratoBR&theme=nord&no-frame=true&no-bg=true&margin-w=4&margin-h=5&row=2&column=4)
 
