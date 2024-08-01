@@ -44,7 +44,7 @@ Estou sempre aberto a novas oportunidades para colaborar com equipes talentosas 
 ![](https://github-profile-trophy.vercel.app/?username=devhonoratoBR&theme=nord&no-frame=true&no-bg=true&margin-w=4&margin-h=5&row=2&column=4)
 
 ## ✍️ Random Dev Quote
-[![Quotes Readme](https://quotes-readme.vercel.app/api?type=horizontal&theme=dark&lang=br)](https://github.com/devhonoratoBR/quotes-readme)
+[![Quotes Readme](https://quotes-readme.vercel.app/api?type=horizontal&lang=br)](https://github.com/devhonoratoBR/quotes-readme)
 
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
