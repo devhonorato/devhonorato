@@ -9,7 +9,7 @@ Estou sempre aberto a novas oportunidades para colaborar com equipes talentosas 
 
 ## 🌐 Social media:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-honorato-9b3579204) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-honorato-dev/) 
 
 ## 💻 Tech Stack:
 
