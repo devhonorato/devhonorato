@@ -1,3 +1,10 @@
+## ✍️ Random Dev Quote
+<div align="center">
+  
+  [![Quotes Readme](https://quotes-readme.vercel.app/api?type=horizontal&lang=br&theme=github)](https://github.com/devhonorato/quotes-readme)
+  
+</div>
+
 ## 👋 About me:
 
 Olá, eu sou Felipe Honorato, também conhecido como DevHonorato. 
@@ -34,26 +41,42 @@ Estou sempre aberto a novas oportunidades para colaborar com equipes talentosas 
 ### Version control
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/devhonorato) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devhonorato)
 
-## 📊 GitHub Stats:
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=devhonorato&theme=dark&hide_border=true)](https://github.com/devhonorato)<br/>
-[![](https://github-readme-stats.vercel.app/api?username=devhonorato&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/devhonorato)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=devhonorato&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)](https://github.com/devhonorato)
+<div align="center">
+  
+  ## 📊 GitHub Stats:
+  
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=devhonorato&theme=dark&hide_border=true)](https://github.com/devhonorato)
+  [![](https://github-readme-stats.vercel.app/api?username=devhonorato&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/devhonorato)
+  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=devhonorato&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)](https://github.com/devhonorato)
 
-## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=devhonorato&theme=nord&no-frame=true&no-bg=true&margin-w=4&margin-h=5&row=2&column=4)](https://github.com/devhonorato)
+</div>
 
-## ✍️ Random Dev Quote
-[![Quotes Readme](https://quotes-readme.vercel.app/api?type=horizontal&lang=br&theme=github)](https://github.com/devhonorato/quotes-readme)
+<div align="center">
+  
+  ## 🏆 GitHub Trophies
+  
+  [![](https://github-profile-trophy.vercel.app/?username=devhonorato&theme=nord&no-frame=true&no-bg=true&margin-w=4&margin-h=5&row=2&column=4)](https://github.com/devhonorato)
+
+</div>
 
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
-## 🔝 Top Contributed Repo
-[![](https://github-contributor-stats.vercel.app/api?username=devhonorato&hide_border=true&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/devhonorato)
+<div align="center">
+  
+  ## 🔝 Top Contributed Repo
+  
+  [![](https://github-contributor-stats.vercel.app/api?username=devhonorato&hide_border=true&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/devhonorato)
 
-## ❤️ Thanks 
-[![Visit Count](https://visitcount.itsvg.in/api?id=devhonorato&icon=5&color=12)](https://github.com/devhonorato)
+</div>
 
+<div align="center">
+
+  ## ❤️ Thanks 
+  
+  [![Visit Count](https://visitcount.itsvg.in/api?id=devhonorato&icon=5&color=12)](https://github.com/devhonorato)
+
+</div>
 
 <!--## 💰 You can help me by Donating -->
 <!--[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/a) -->
