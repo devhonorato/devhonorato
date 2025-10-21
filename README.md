@@ -7,12 +7,15 @@
 
 ## 👋 About me:
 
-Olá, eu sou Felipe Honorato, também conhecido como DevHonorato. 
-Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de desafios para aprimorar minhas habilidades e conhecimentos. Minha especialidade é a criação de soluções inovadoras e eficientes usando diversas tecnologias.
+Olá! Sou Felipe Honorato (devhonorato), desenvolvedor Fullstack apaixonado por tecnologia e por criar soluções que unem eficiência, design e inovação.
+
+Gosto de transformar ideias em produtos reais e escaláveis, sempre explorando novas ferramentas e desafios.
 
 ## 📈 Professional goal:
 
-Estou sempre aberto a novas oportunidades para colaborar com equipes talentosas e trabalhar em projetos desafiadores. Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a construção de soluções inovadoras que impactem positivamente a vida das pessoas.
+Estou sempre aberto a novas oportunidades para colaborar com equipes talentosas e trabalhar em projetos desafiadores. 
+
+Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a construção de soluções inovadoras que impactem positivamente a vida das pessoas.
 
 ## 🌐 Social media:
 
