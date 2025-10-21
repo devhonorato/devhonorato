@@ -76,11 +76,16 @@ Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a const
 <div align="center">
 
   ## ❤️ Thanks 
+  
+  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/devhonorato)
 
   ![](https://komarev.com/ghpvc/?username=devhonorato&abbreviated=true&label=PROFILE+VIEWS)
   <!--[![Visit Count](https://visitcount.itsvg.in/api?id=devhonorato&icon=5&color=12)](https://github.com/devhonorato)-->
+  
 
 </div>
+
+
 
 <!--## 💰 You can help me by Donating -->
 <!--[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/a) -->
