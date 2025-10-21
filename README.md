@@ -76,8 +76,9 @@ Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a const
 <div align="center">
 
   ## ❤️ Thanks 
-  
-  [![Visit Count](https://visitcount.itsvg.in/api?id=devhonorato&icon=5&color=12)](https://github.com/devhonorato)
+
+  ![](https://komarev.com/ghpvc/?username=devhonorato&abbreviated=true&label=PROFILE+VIEWS)
+  <!--[![Visit Count](https://visitcount.itsvg.in/api?id=devhonorato&icon=5&color=12)](https://github.com/devhonorato)-->
 
 </div>
 
