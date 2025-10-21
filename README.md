@@ -79,7 +79,7 @@ Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a const
   
   [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/devhonorato)
 
-  ![](https://komarev.com/ghpvc/?username=devhonorato&abbreviated=true&label=PROFILE+VIEWS)
+  ![](https://komarev.com/ghpvc/?username=devhonorato&label=PROFILE+VIEWS)
   <!--[![Visit Count](https://visitcount.itsvg.in/api?id=devhonorato&icon=5&color=12)](https://github.com/devhonorato)-->
   
 
